@@ -7,7 +7,7 @@ This repository is a POC of the deployment of the "Student-list" application wit
 - VirtualBox, Vagrant and git
 - 2 Go RAM available
 - 2 CPU 
-- disk free
+- 25 Go disk free
 
 # How to test
 
