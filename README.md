@@ -21,7 +21,7 @@ then:
 ```bash
 cd mini-projet && Vagrant up
 ```
-The script `install-docker.sh' will install "Student-list" and "docker registry" from the following repository:
+The script `install-docker.sh` will install "Student-list" and "docker registry" from the following repository:
 - [https://github.com/gitcantoine/student-list](https://github.com/gitcantoine/student-list)
 - [https://github.com/gitcantoine/registry-docker-ui](https://github.com/gitcantoine/registry-docker-ui)
 
