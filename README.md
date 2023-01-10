@@ -25,4 +25,4 @@ you will find Student-list application:
 [http://192.168.56.60](http://192.168.50.60)
 
 you can manage the local conainter registry at:  
-[http://192.168.56.60:5001](http://192.168.50.60:8090)
+[http://192.168.56.60:8090](http://192.168.50.60:8090)
