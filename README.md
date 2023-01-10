@@ -21,6 +21,11 @@ then:
 ```bash
 cd mini-projet && Vagrant up
 ```
+The script `install-docker.sh' will install "Student-list" and "docker registry" from the following repository:
+- [https://github.com/gitcantoine/student-list](https://github.com/gitcantoine/student-list)
+- [https://github.com/gitcantoine/registry-docker-ui](https://github.com/gitcantoine/registry-docker-ui)
+
+
 you will find Student-list application:  
 [http://192.168.56.60](http://192.168.50.60)
 
