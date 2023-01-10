@@ -17,12 +17,12 @@ systemctl enable --now docker.service
 usermod -aG docker vagrant
 
 # install student-list website 
-git clone https://gitea.dataperso.me/toffe/projet-docker.git
-docker build -t simple_api:v1 /home/vagrant/projet-docker/simple_api/
-docker compose --file /home/vagrant/projet-docker/docker-compose.yml up -d
+git clone https://github.com/gitcantoine/student-list.git
+docker build -t simple_api:v1 /home/vagrant/student-list/simple_api/
+docker compose --file /home/vagrant/student-list/docker-compose.yml up -d
 
 # Install a local registery docker and registery ui
-git clone https://gitea.dataperso.me/toffe/registry-docker-ui.git
+git clone https://github.com/gitcantoine/registry-docker-ui.git
 docker compose --file /home/vagrant/registry-docker-ui/docker-compose.yml up -d
 
 # Configure firewalld
