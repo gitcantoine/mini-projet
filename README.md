@@ -13,7 +13,7 @@ This repository is a POC of the deployment of the "Student-list" application wit
 
 clone this repo:
 ```bash
-git clone https://gitea.dataperso.me/toffe/mini-projet.git
+git clone https://github.com/gitcantoine/mini-projet.git
 ```
 
 
